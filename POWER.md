@@ -1,9 +1,9 @@
 ---
-name: "Amazon Bedrock AgentCore Samples"
-description: "Amazon Bedrock AgentCore的完整示例集合，包括教程、使用案例、集成和基础设施代码，帮助开发者学习和实现AI代理应用"
-author: "AWS Labs"
-type: "samples"
-version: "1.0"
+name: Amazon Bedrock AgentCore Samples
+description: Amazon Bedrock AgentCore的完整示例集合，包括教程、使用案例、集成和基础设施代码
+author: AWS Labs
+type: samples
+version: 1.0
 ---
 
 # Amazon Bedrock AgentCore Samples
